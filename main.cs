@@ -78,5 +78,6 @@ class Program
         Console.WriteLine("Donut: " + donutype);
         Console.WriteLine("Amount: " + amount);
         Console.WriteLine("Price: $" + price);
+        Console.WriteLine("\nDone.");
     }
 }
